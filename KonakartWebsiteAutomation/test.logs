@@ -1,0 +1,669 @@
+2019-10-14 12:11:34 INFO  ItemMessageValidation:25 - displayed error message is correct and message is: There are no available products.
+2019-10-14 12:11:48 INFO  ItemMessageValidation:36 - item name is Cadiz Clock
+2019-10-14 12:11:48 INFO  ItemMessageValidation:36 - item name is 60s Pluto Starburst Clock
+2019-10-14 12:11:48 INFO  ItemMessageValidation:36 - item name is Acctim Metal Clock
+2019-10-14 12:11:49 INFO  ItemMessageValidation:36 - item name is Vision Clock
+2019-10-14 12:11:49 INFO  ItemMessageValidation:36 - item name is Milan 93 Clock
+2019-10-14 12:11:49 INFO  ItemMessageValidation:36 - item name is Ministry Clock
+2019-10-14 12:11:49 INFO  ItemMessageValidation:36 - item name is Weather Station Clock
+2019-10-14 12:11:49 INFO  ItemMessageValidation:36 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 12:12:03 INFO  ItemMessageValidation:36 - item name is Cadiz Clock
+2019-10-14 12:12:03 INFO  ItemMessageValidation:36 - item name is 60s Pluto Starburst Clock
+2019-10-14 12:12:03 INFO  ItemMessageValidation:36 - item name is Acctim Metal Clock
+2019-10-14 12:12:03 INFO  ItemMessageValidation:36 - item name is Vision Clock
+2019-10-14 12:12:04 INFO  ItemMessageValidation:36 - item name is Milan 93 Clock
+2019-10-14 12:12:04 INFO  ItemMessageValidation:36 - item name is Ministry Clock
+2019-10-14 12:12:04 INFO  ItemMessageValidation:36 - item name is Weather Station Clock
+2019-10-14 12:12:04 INFO  ItemMessageValidation:36 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 12:12:07 INFO  ItemMessageValidation:25 - displayed error message is correct and message is: There are no available products.
+2019-10-14 12:23:26 INFO  ItemMessageValidation:25 - displayed error message is correct and message is: There are no available products.
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Cadiz Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is 60s Pluto Starburst Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Acctim Metal Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Vision Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Milan 93 Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Ministry Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Weather Station Clock
+2019-10-14 12:23:40 INFO  ItemMessageValidation:36 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 12:23:54 INFO  ItemMessageValidation:36 - item name is Cadiz Clock
+2019-10-14 12:23:54 INFO  ItemMessageValidation:36 - item name is 60s Pluto Starburst Clock
+2019-10-14 12:23:54 INFO  ItemMessageValidation:36 - item name is Acctim Metal Clock
+2019-10-14 12:23:55 INFO  ItemMessageValidation:36 - item name is Vision Clock
+2019-10-14 12:23:55 INFO  ItemMessageValidation:36 - item name is Milan 93 Clock
+2019-10-14 12:23:55 INFO  ItemMessageValidation:36 - item name is Ministry Clock
+2019-10-14 12:23:55 INFO  ItemMessageValidation:36 - item name is Weather Station Clock
+2019-10-14 12:23:55 INFO  ItemMessageValidation:36 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 12:23:59 INFO  ItemMessageValidation:25 - displayed error message is correct and message is: There are no available products.
+2019-10-14 13:04:42 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 13:04:42 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 13:04:42 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 13:33:07 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 13:33:08 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 13:33:08 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 13:33:08 INFO  SortingValidationHelper:44 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 13:33:08 INFO  SortingValidationHelper:44 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 13:33:08 INFO  SortingValidationHelper:44 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 13:33:08 INFO  SortingValidationHelper:44 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 13:33:08 INFO  SortingValidationHelper:47 - [1194, 1397, 1480, 2138]
+2019-10-14 13:36:37 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 13:36:37 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 13:36:37 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-14 13:36:37 INFO  SortingValidationHelper:44 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 13:36:37 INFO  SortingValidationHelper:44 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 13:36:37 INFO  SortingValidationHelper:44 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 13:36:37 INFO  SortingValidationHelper:47 - [2189, 2349, 2440]
+2019-10-14 13:36:40 INFO  SortingValidationHelper:44 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 13:36:40 INFO  SortingValidationHelper:44 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 13:36:40 INFO  SortingValidationHelper:44 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 13:36:40 INFO  SortingValidationHelper:47 - [2440, 2349, 2189]
+2019-10-14 14:07:09 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:07:09 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:07:09 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-14 14:07:10 INFO  SortingValidationHelper:44 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 14:07:10 INFO  SortingValidationHelper:44 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 14:07:10 INFO  SortingValidationHelper:44 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 14:07:10 INFO  SortingValidationHelper:47 - [2189, 2349, 2440]
+2019-10-14 14:07:12 INFO  SortingValidationHelper:44 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 14:07:12 INFO  SortingValidationHelper:44 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 14:07:12 INFO  SortingValidationHelper:44 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 14:07:12 INFO  SortingValidationHelper:47 - [2440, 2349, 2189]
+2019-10-14 14:33:25 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:33:25 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:33:25 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 14:33:25 INFO  SortingValidationHelper:44 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:33:25 INFO  SortingValidationHelper:44 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:33:25 INFO  SortingValidationHelper:44 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:33:25 INFO  SortingValidationHelper:44 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:33:25 INFO  SortingValidationHelper:47 - [1194, 1397, 1480, 2138]
+2019-10-14 14:33:28 INFO  SortingValidationHelper:44 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:33:28 INFO  SortingValidationHelper:44 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:33:28 INFO  SortingValidationHelper:44 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:33:28 INFO  SortingValidationHelper:44 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:33:28 INFO  SortingValidationHelper:47 - [2138, 1480, 1397, 1194]
+2019-10-14 14:43:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:43:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:43:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 14:43:38 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:43:38 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:43:38 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:43:38 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:43:38 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 14:43:41 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:43:41 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:43:41 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:43:41 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:43:41 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 14:43:45 INFO  SortingValidationHelper:72 - [5, 4, 3, 3] list of Rating
+2019-10-14 14:43:49 INFO  SortingValidationHelper:72 - [3, 3, 4, 5] list of Rating
+2019-10-14 14:53:08 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:53:08 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:53:08 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 14:53:08 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 14:53:08 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:53:08 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:53:08 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:53:08 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:53:08 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 14:53:08 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 14:53:12 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:53:12 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:53:12 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:53:12 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:53:12 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 14:53:12 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 14:53:17 INFO  SortingValidationHelper:72 - [5, 4, 3, 3] list of Rating
+2019-10-14 14:53:20 INFO  SortingValidationHelper:72 - [3, 3, 4, 5] list of Rating
+2019-10-14 14:56:48 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:56:48 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:56:49 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-14 14:56:49 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 14:56:50 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 14:56:50 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 14:56:50 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 14:56:50 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 14:56:50 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 14:56:51 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 14:56:51 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 14:56:51 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 14:56:51 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 14:56:51 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 14:58:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:58:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:58:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 14:58:00 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 14:58:00 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:58:00 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:58:00 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:58:00 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:58:00 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 14:58:00 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 14:58:03 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:58:03 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:58:03 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:58:03 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:58:03 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 14:58:03 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 14:58:07 INFO  SortingValidationHelper:72 - [5, 4, 3, 3] list of Rating
+2019-10-14 14:58:07 INFO  BaseClass:31 -  High to Low Rating, sorting order passed 
+2019-10-14 14:58:11 INFO  SortingValidationHelper:72 - [3, 3, 4, 5] list of Rating
+2019-10-14 14:58:11 INFO  BaseClass:45 -  Low to High Rating, sorting order passed 
+2019-10-14 14:58:49 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 14:58:50 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 14:58:51 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-14 14:58:51 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 14:58:51 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:58:51 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:58:52 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:58:52 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:58:52 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 14:58:52 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 14:58:53 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 14:58:53 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 14:58:54 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 14:58:54 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 14:58:54 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 14:58:54 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 15:00:22 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 15:00:23 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 15:00:23 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-14 15:00:23 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 15:00:24 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 15:00:24 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 15:00:24 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 15:00:24 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 15:00:24 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 15:00:26 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 15:00:26 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 15:00:26 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 15:00:26 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 15:00:26 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 15:17:37 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-14 15:17:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-14 15:17:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-14 15:17:38 INFO  BaseClass:28 - Validation of Content is passed 
+2019-10-14 15:17:39 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 15:17:39 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 15:17:39 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 15:17:39 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 15:17:39 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 15:17:40 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 15:17:40 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 15:17:41 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 15:17:41 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 15:17:41 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 17:35:14 INFO  BaseClass:64 - Validation of Content is passed 
+2019-10-14 17:41:05 INFO  BaseClass:64 - Validation of Content is passed 
+2019-10-14 17:43:01 INFO  BaseClass:64 - Validation of Content is passed 
+2019-10-14 17:44:15 INFO  BaseClass:64 - Validation of Content is passed 
+2019-10-14 17:46:33 INFO  BaseClass:64 - Validation of Content is passed 
+2019-10-14 17:50:28 INFO  BaseClass:63 - Validation of Content is passed 
+2019-10-14 17:51:57 INFO  BaseClass:63 - Validation of Content is passed 
+2019-10-14 17:51:57 INFO  BaseClass:84 - Validation of Content is passed 
+2019-10-14 17:51:57 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 17:51:57 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 17:51:57 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 17:51:57 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 17:51:57 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 17:52:00 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 17:52:00 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 17:52:00 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 17:52:00 INFO  SortingValidationHelper:45 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 17:52:00 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 17:52:04 INFO  SortingValidationHelper:72 - [5, 4, 4] list of Rating
+2019-10-14 17:52:04 INFO  BaseClass:31 -  High to Low Rating, sorting order passed 
+2019-10-14 17:52:07 INFO  SortingValidationHelper:72 - [4, 4, 5] list of Rating
+2019-10-14 17:52:07 INFO  BaseClass:45 -  Low to High Rating, sorting order passed 
+2019-10-14 17:56:18 INFO  BaseClass:30 - selected product is De'Longhi BCO 410
+2019-10-14 17:56:20 INFO  BaseClass:46 - Validation of Description part is passed 
+2019-10-14 17:56:20 INFO  BaseClass:58 - Validation of specification is passed 
+2019-10-14 17:56:20 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 17:56:20 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 17:56:20 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 17:56:20 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 17:56:20 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 17:56:20 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 17:56:27 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 17:56:27 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 17:56:27 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 17:56:27 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 17:56:27 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 17:56:27 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 17:56:35 INFO  SortingValidationHelper:72 - [5, 4, 3, 3] list of Rating
+2019-10-14 17:56:35 INFO  BaseClass:31 -  High to Low Rating, sorting order passed 
+2019-10-14 17:56:39 INFO  SortingValidationHelper:72 - [3, 3, 4, 5] list of Rating
+2019-10-14 17:56:39 INFO  BaseClass:45 -  Low to High Rating, sorting order passed 
+2019-10-14 18:50:35 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 18:50:40 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 18:50:41 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 18:50:42 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 18:50:42 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 18:50:43 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 18:50:43 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 18:50:43 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 18:50:43 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 18:50:44 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 18:50:44 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 18:50:45 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 18:50:45 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 18:50:45 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 18:50:45 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 18:52:58 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 18:53:00 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 18:53:01 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 18:53:02 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:53:02 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:53:02 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:53:02 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:53:02 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 18:53:04 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:53:04 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:53:04 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:53:04 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:53:04 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 18:53:10 INFO  SortingValidationHelper:72 - [4, 4, 4] list of Rating
+2019-10-14 18:53:10 INFO  BaseClass:31 -  High to Low Rating, sorting order passed 
+2019-10-14 18:54:05 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 18:54:07 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 18:54:08 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 18:54:09 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:54:09 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:54:10 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:54:10 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:54:10 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 18:54:11 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:54:11 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:54:11 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:54:11 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:54:11 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 18:55:50 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 18:55:52 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 18:55:53 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 18:55:54 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:55:54 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:55:54 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:55:54 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:55:54 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 18:55:56 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 18:55:56 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 18:55:56 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 18:55:56 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 18:55:56 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 18:57:33 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 18:57:36 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 18:57:37 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 18:57:38 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 18:57:38 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 18:57:38 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 18:57:38 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 18:57:38 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 18:57:38 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 18:57:39 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 18:57:40 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 18:57:40 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 18:57:40 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 18:57:40 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 18:57:40 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 18:57:41 INFO  BaseClass:31 -  High to Low Rating, sorting order passed 
+2019-10-14 18:57:42 INFO  BaseClass:45 -  Low to High Rating, sorting order passed 
+2019-10-14 19:43:07 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 19:43:09 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 19:43:10 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 19:43:10 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 19:43:10 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 19:43:10 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 19:43:10 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 19:43:10 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 19:43:12 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 19:43:12 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 19:43:13 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 19:43:13 INFO  SortingValidationHelper:45 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 19:43:13 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 19:44:54 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 19:44:56 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 19:44:56 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 19:44:56 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 19:44:56 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 19:44:56 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 19:44:56 INFO  SortingValidationHelper:45 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 19:44:56 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 19:44:59 INFO  SortingValidationHelper:42 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 19:44:59 INFO  SortingValidationHelper:42 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 19:44:59 INFO  SortingValidationHelper:42 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 19:44:59 INFO  SortingValidationHelper:45 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 19:44:59 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 19:47:50 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 19:47:52 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 19:47:52 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 19:47:52 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 19:47:52 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 19:47:52 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 19:47:52 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 19:47:52 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 19:47:52 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 19:47:56 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 19:47:56 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 19:47:56 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 19:47:56 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 19:47:56 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 19:47:56 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 19:51:23 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 19:51:36 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 19:51:36 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 19:51:37 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 19:51:37 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 19:51:37 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 19:51:38 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 19:51:38 INFO  SortingValidationHelper:45 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 19:51:38 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 19:51:43 INFO  SortingValidationHelper:42 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 19:51:43 INFO  SortingValidationHelper:42 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 19:51:43 INFO  SortingValidationHelper:42 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 19:51:43 INFO  SortingValidationHelper:42 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 19:51:43 INFO  SortingValidationHelper:45 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 19:51:43 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:06:35 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 20:06:36 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:06:37 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:06:37 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:06:37 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:06:37 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:06:37 INFO  SortingValidationHelper:46 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 20:06:37 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:06:40 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:06:40 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:06:40 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:06:40 INFO  SortingValidationHelper:46 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 20:06:40 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:08:37 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 20:08:39 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:08:39 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:08:39 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:08:39 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:08:39 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:08:39 INFO  SortingValidationHelper:46 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 20:08:39 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:08:43 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:08:43 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:08:43 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:08:43 INFO  SortingValidationHelper:46 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 20:08:43 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:08:45 INFO  BaseClass:33 -  High to Low Rating, sorting order passed 
+2019-10-14 20:08:48 INFO  BaseClass:48 -  Low to High Rating, sorting order passed 
+2019-10-14 20:14:33 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 20:14:36 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:14:37 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:14:37 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:14:38 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:14:38 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:14:38 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:14:38 INFO  SortingValidationHelper:46 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 20:14:38 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:14:39 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:14:40 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:14:40 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:14:40 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:14:40 INFO  SortingValidationHelper:46 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 20:14:40 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:14:42 INFO  BaseClass:31 - rating High to low order: [3, 3, 4, 5]
+2019-10-14 20:14:42 INFO  BaseClass:33 -  High to Low Rating, sorting order passed 
+2019-10-14 20:14:43 INFO  BaseClass:47 - rating High to low order: [3, 3, 4, 5]
+2019-10-14 20:14:43 INFO  BaseClass:48 -  Low to High Rating, sorting order passed 
+2019-10-14 20:17:36 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 20:17:38 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:17:39 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:17:40 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:17:40 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:17:40 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:17:41 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:17:41 INFO  SortingValidationHelper:46 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 20:17:41 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:17:42 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:17:42 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:17:42 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:17:42 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:17:42 INFO  SortingValidationHelper:46 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 20:17:42 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:17:44 INFO  BaseClass:31 - rating High to low order: [3, 3, 4, 5]
+2019-10-14 20:17:44 INFO  BaseClass:33 -  High to Low Rating, sorting order passed 
+2019-10-14 20:17:46 INFO  BaseClass:47 - rating low to High order: [3, 3, 4, 5]
+2019-10-14 20:17:46 INFO  BaseClass:48 -  Low to High Rating, sorting order passed 
+2019-10-14 20:20:31 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 20:20:33 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:20:33 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:20:33 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:20:33 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:20:33 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:20:34 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:20:34 INFO  SortingValidationHelper:46 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 20:20:34 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:20:36 INFO  SortingValidationHelper:43 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 20:20:36 INFO  SortingValidationHelper:43 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 20:20:36 INFO  SortingValidationHelper:43 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 20:20:36 INFO  SortingValidationHelper:43 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 20:20:36 INFO  SortingValidationHelper:46 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 20:20:36 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:20:39 INFO  BaseClass:31 - rating High to low order: [3, 3, 4, 5]
+2019-10-14 20:20:39 INFO  BaseClass:33 -  High to Low Rating, sorting order passed 
+2019-10-14 20:20:41 INFO  BaseClass:47 - rating low to High order: [3, 3, 4, 5]
+2019-10-14 20:20:41 INFO  BaseClass:48 -  Low to High Rating, sorting order passed 
+2019-10-14 20:22:17 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 20:22:18 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 20:22:18 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 20:22:18 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:22:18 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:22:18 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:22:18 INFO  SortingValidationHelper:46 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 20:22:18 INFO  BaseClass:38 - Most recent sorting order passed 
+2019-10-14 20:22:21 INFO  SortingValidationHelper:43 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 20:22:21 INFO  SortingValidationHelper:43 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 20:22:21 INFO  SortingValidationHelper:43 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 20:22:21 INFO  SortingValidationHelper:46 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 20:22:21 INFO  BaseClass:54 - Oldest is first sorting order passed 
+2019-10-14 20:22:24 INFO  BaseClass:31 - rating High to low order: [5, 4, 4]
+2019-10-14 20:22:24 INFO  BaseClass:33 -  High to Low Rating, sorting order passed 
+2019-10-14 20:22:26 INFO  BaseClass:47 - rating low to High order: [4, 4, 5]
+2019-10-14 20:22:26 INFO  BaseClass:48 -  Low to High Rating, sorting order passed 
+2019-10-14 20:59:38 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Electronics
+2019-10-14 20:59:40 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 20:59:40 INFO  BaseClass:28 - product Name is: Clock dropDownText is: All
+2019-10-14 20:59:52 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 20:59:52 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 20:59:52 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 20:59:52 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 20:59:53 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 20:59:53 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 20:59:53 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 20:59:53 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 20:59:53 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Home & Garden
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 21:00:05 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 21:00:06 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Gifts
+2019-10-14 21:00:07 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 21:01:26 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Electronics
+2019-10-14 21:01:27 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 21:01:28 INFO  BaseClass:28 - product Name is: Clock dropDownText is: All
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 21:01:40 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 21:01:41 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Home & Garden
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 21:01:53 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 21:01:53 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Gifts
+2019-10-14 21:01:57 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 21:02:17 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 21:02:18 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:02:18 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:02:18 INFO  SortingValidationHelper:51 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 21:02:18 INFO  SortingValidationHelper:51 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 21:02:18 INFO  SortingValidationHelper:51 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 21:02:18 INFO  SortingValidationHelper:54 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 21:02:18 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:02:21 INFO  SortingValidationHelper:51 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 21:02:21 INFO  SortingValidationHelper:51 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 21:02:21 INFO  SortingValidationHelper:51 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 21:02:21 INFO  SortingValidationHelper:54 - [2440, 2349, 2189] list of day difference compared with current day
+2019-10-14 21:02:21 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:02:23 INFO  BaseClass:34 - rating High to low order: [5, 4, 4]
+2019-10-14 21:02:23 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:02:27 INFO  BaseClass:55 - rating low to High order: [4, 4, 5]
+2019-10-14 21:02:27 INFO  BaseClass:56 -  Low to High Rating, sorting order passed 
+2019-10-14 21:03:10 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Electronics
+2019-10-14 21:03:12 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 21:03:14 INFO  BaseClass:28 - product Name is: Clock dropDownText is: All
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 21:03:27 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 21:03:29 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Home & Garden
+2019-10-14 21:03:42 INFO  ItemMessageValidation:47 - item name is Cadiz Clock
+2019-10-14 21:03:42 INFO  ItemMessageValidation:47 - item name is 60s Pluto Starburst Clock
+2019-10-14 21:03:42 INFO  ItemMessageValidation:47 - item name is Acctim Metal Clock
+2019-10-14 21:03:42 INFO  ItemMessageValidation:47 - item name is Vision Clock
+2019-10-14 21:03:42 INFO  ItemMessageValidation:47 - item name is Milan 93 Clock
+2019-10-14 21:03:43 INFO  ItemMessageValidation:47 - item name is Ministry Clock
+2019-10-14 21:03:43 INFO  ItemMessageValidation:47 - item name is Weather Station Clock
+2019-10-14 21:03:43 INFO  ItemMessageValidation:47 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-14 21:03:44 INFO  BaseClass:28 - product Name is: Clock dropDownText is: Gifts
+2019-10-14 21:03:47 INFO  ItemMessageValidation:33 - displayed error message is correct and message is: There are no available products.
+2019-10-14 21:04:00 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:04:02 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:04:03 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:04:04 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:04:04 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:04:04 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:04:05 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:04:05 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:04:05 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:04:06 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:04:06 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:04:07 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:04:07 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:04:07 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:04:07 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:05:20 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:05:39 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:05:40 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:05:41 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:05:41 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:05:41 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:05:41 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:05:41 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:05:41 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:05:46 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:05:47 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:05:47 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:05:48 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:05:48 INFO  SortingValidationHelper:54 - [2138, 1480, 1397, 1194] list of day difference compared with current day
+2019-10-14 21:05:48 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:05:53 INFO  BaseClass:34 - rating High to low order: [5, 4, 3, 3]
+2019-10-14 21:05:53 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:05:57 INFO  BaseClass:55 - rating low to High order: [3, 3, 4, 5]
+2019-10-14 21:05:57 INFO  BaseClass:56 -  Low to High Rating, sorting order passed 
+2019-10-14 21:06:58 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:07:01 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:07:02 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:07:03 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:07:03 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:07:03 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:07:03 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:07:03 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:07:03 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:07:05 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:07:05 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:07:05 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:07:06 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:07:06 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:07:06 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:07:07 INFO  BaseClass:34 - rating High to low order: [5, 3, 3, 4]
+2019-10-14 21:07:07 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:08:17 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:08:20 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:08:20 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:08:22 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:08:22 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:08:22 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:08:22 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:08:22 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:08:22 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:08:24 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:08:24 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:08:24 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:08:24 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:08:24 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:08:24 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:09:19 INFO  BaseClass:37 - selected product is Kindle Fire HD
+2019-10-14 21:09:21 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:09:22 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:09:23 INFO  SortingValidationHelper:51 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 21:09:23 INFO  SortingValidationHelper:51 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 21:09:23 INFO  SortingValidationHelper:51 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 21:09:23 INFO  SortingValidationHelper:54 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 21:09:23 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:09:24 INFO  SortingValidationHelper:51 - date is Wednesday 16 October 2013 difference in date is 2189
+2019-10-14 21:09:25 INFO  SortingValidationHelper:51 - date is Thursday 9 May 2013 difference in date is 2349
+2019-10-14 21:09:25 INFO  SortingValidationHelper:51 - date is Thursday 7 February 2013 difference in date is 2440
+2019-10-14 21:09:25 INFO  SortingValidationHelper:54 - [2189, 2349, 2440] list of day difference compared with current day
+2019-10-14 21:09:25 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:09:26 INFO  BaseClass:34 - rating High to low order: [4, 5, 4]
+2019-10-14 21:09:26 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:09:28 INFO  BaseClass:55 - rating low to High order: [4, 4, 5]
+2019-10-14 21:09:28 INFO  BaseClass:56 -  Low to High Rating, sorting order passed 
+2019-10-14 21:10:11 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:10:13 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:10:14 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:10:15 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:10:15 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:10:15 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:10:16 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:10:16 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:10:16 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:10:17 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:10:17 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:10:18 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:10:18 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:10:18 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:10:18 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:10:20 INFO  BaseClass:34 - rating High to low order: [5, 3, 3, 4]
+2019-10-14 21:10:20 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:10:21 INFO  BaseClass:55 - rating low to High order: [3, 3, 4, 5]
+2019-10-14 21:10:21 INFO  BaseClass:56 -  Low to High Rating, sorting order passed 
+2019-10-14 21:11:28 INFO  BaseClass:37 - selected product is De'Longhi BCO 410
+2019-10-14 21:11:30 INFO  BaseClass:53 - Validation of Description part is passed 
+2019-10-14 21:11:31 INFO  BaseClass:67 - Validation of specification is passed 
+2019-10-14 21:11:32 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:11:33 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:11:33 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:11:33 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:11:33 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:11:33 INFO  BaseClass:45 - Most recent sorting order passed 
+2019-10-14 21:11:34 INFO  SortingValidationHelper:51 - date is Thursday 7 July 2016 difference in date is 1194
+2019-10-14 21:11:34 INFO  SortingValidationHelper:51 - date is Thursday 17 December 2015 difference in date is 1397
+2019-10-14 21:11:35 INFO  SortingValidationHelper:51 - date is Friday 25 September 2015 difference in date is 1480
+2019-10-14 21:11:35 INFO  SortingValidationHelper:51 - date is Friday 6 December 2013 difference in date is 2138
+2019-10-14 21:11:35 INFO  SortingValidationHelper:54 - [1194, 1397, 1480, 2138] list of day difference compared with current day
+2019-10-14 21:11:35 INFO  BaseClass:61 - Oldest is first sorting order passed 
+2019-10-14 21:11:37 INFO  BaseClass:34 - rating High to low order: [5, 3, 3, 4]
+2019-10-14 21:11:37 INFO  BaseClass:36 -  High to Low Rating, sorting order passed 
+2019-10-14 21:11:38 INFO  BaseClass:55 - rating low to High order: [3, 3, 4, 5]
+2019-10-14 21:11:38 INFO  BaseClass:56 -  Low to High Rating, sorting order passed 

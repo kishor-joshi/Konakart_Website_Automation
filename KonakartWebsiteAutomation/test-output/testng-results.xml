@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="20782" started-at="2019-10-14T21:11:18 IST" finished-at="2019-10-14T21:11:38 IST">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="20782" started-at="2019-10-14T21:11:18 IST" finished-at="2019-10-14T21:11:38 IST">
+      <class name="com.konakart.testscenarios.SpecificProductValidationScenario">
+        <test-method status="PASS" signature="setBrowser(java.lang.String)[pri:0, instance:com.konakart.testscenarios.SpecificProductValidationScenario@46daef40]" name="setBrowser" is-config="true" duration-ms="5908" started-at="2019-10-14T21:11:18 IST" finished-at="2019-10-14T21:11:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="navigateToProductDetails()[pri:0, instance:com.konakart.testscenarios.SpecificProductValidationScenario@46daef40]" name="navigateToProductDetails" duration-ms="14806" started-at="2019-10-14T21:11:24 IST" finished-at="2019-10-14T21:11:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToProductDetails -->
+      </class> <!-- com.konakart.testscenarios.SpecificProductValidationScenario -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
