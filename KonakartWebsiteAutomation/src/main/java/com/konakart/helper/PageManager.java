@@ -76,11 +76,18 @@ public class PageManager {
 	}
 	
 	public static  void selectDropDownText(String dropDownText,WebElement dropdownElement) throws Exception {
+		
 		Select dropdown=new Select(dropdownElement);
 		dropdown.selectByVisibleText(dropDownText);
 	}
-	
-	/**
+	public static void selectAndClickOnText(String dropDownText,WebElement dropdownElement,WebDriver driver) {
+		Actions action =new Actions(driver);
+		action.moveToElement(dropdownElement).build().perform();
+		dropdownElement.click();
+		Select dropdown=new Select(dropdownElement);
+		dropdown.selectByVisibleText(dropDownText);
+	}
+	/**scroll the perticular element upto top of the page.
 	 * 
 	 * @param driver
 	 * @param element

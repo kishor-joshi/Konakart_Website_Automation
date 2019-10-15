@@ -1,4 +1,4 @@
-package validationHelper;
+package com.konakart.validationHelper;
 
 
 
@@ -35,6 +35,10 @@ public static void validateItemMessage(String actualMessage,String expectedMessa
 	}	
 	else
 		Assert.assertEquals(false, "displayed message is wrong");
+}
+public static void searchResultValidation(String actualResult,String expectedResult) {
+	Assert.assertEquals(actualResult, expectedResult,"reuslt not matched");
+	log.info("search result passed:displayed product nameis : "+actualResult);
 }
 
 /**

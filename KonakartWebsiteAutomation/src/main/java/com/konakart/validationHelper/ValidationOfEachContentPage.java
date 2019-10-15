@@ -1,4 +1,4 @@
-package validationHelper;
+package com.konakart.validationHelper;
 
 import java.io.IOException;
 
@@ -55,11 +55,9 @@ public static void validateContent(String actualContent,String expectedContent) 
 	}
 
 public static void validateProductDetails(String  actualDescription,String  expectedDescription) {
-	if(actualDescription.contains(expectedDescription))
-		System.out.println("Description pass ");
-	else
-		Assert.assertEquals(false,"content are different ");
+	if(!actualDescription.contains(expectedDescription))
+		Assert.assertEquals(false,"content are different ");	
 		
-}
+   }
 }
 

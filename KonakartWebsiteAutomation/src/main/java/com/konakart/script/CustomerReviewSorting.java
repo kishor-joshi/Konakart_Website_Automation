@@ -10,10 +10,11 @@ import org.testng.Assert;
 
 import com.konakart.helper.PageManager;
 import com.konakart.utility.Constants;
-
-import validationHelper.SortingValidationHelper;
+import com.konakart.utility.KonakartExtendReport;
+import com.konakart.validationHelper.SortingValidationHelper;
 
 /**
+ * validation of soring by date.
  * 
  * @author kishor.joshi
  *
@@ -24,41 +25,62 @@ public class CustomerReviewSorting extends ValidationOfContent {
 	String sortingDropDownXpath,dropDownText;
 	List<WebElement>dateList;
 	public static String[] actualDateSorting,expectedDateSorting;
-	
-	
+	boolean isSortedAscending,isSortedDesceding;
+	int[] dateArray;
 /**
+ * validation of sorting by most recent.
  * 	
  * @throws Exception
  */
 	
 public void validateSortingByMostRecent() throws Exception {
 	
-	property=PageManager.loadpropertyFile(Constants.productPropertiesFilePath);
-	
-	dropDownText=property.getProperty("mostrecent");
-	
+	property=PageManager.loadpropertyFile(Constants.productPropertiesFilePath);	
+	dropDownText=property.getProperty("mostrecent");	
 	dateList=helper.getElements(driver, property, "date");
-	actualDateSorting=validation.sortDate(dateList);
-	expectedDateSorting=actualDateSorting;
-	Arrays.sort(actualDateSorting);
-	Assert.assertEquals(actualDateSorting, expectedDateSorting, "date sorting not matched");
-	log.info("Most recent sorting order passed ");
 	
+	//get the date in the string Array.
+	actualDateSorting=validation.sortDate(dateList);
+	
+	//converts converts String array into int Array.
+	dateArray = Arrays.stream(actualDateSorting).mapToInt(Integer::parseInt).toArray();
+	
+	//validates int array is in desceding order.returns boolean value.
+	isSortedAscending=validation.isSortedAscending(dateArray);		
+	Assert.assertTrue(isSortedAscending, "failed: sorted my most Recent");
+	log.info("Most recent sorting order passed ");
+	KonakartExtendReport.reportLog("validateSortingByMostRecent", "failed");
 }
 
-
+/**
+ *
+ * validation of sorting by oldest.
+ * @throws Exception
+ */
 
 public void validateSortingByOldest() throws Exception {
 	
+	//manages the loading time implicit wait.
+	PageManager.manageTimeOuts(driver);
 	property=PageManager.loadpropertyFile(Constants.productPropertiesFilePath);
 	dropDownText=property.getProperty("oldest");
+	
+	//selects dropdown text
 	PageManager.selectDropDownText(dropDownText, helper.getElement(driver, property, "sortingDropDown"));
+	Thread.sleep(Constants.sleepingTime);
 	dateList=helper.getElements(driver, property, "date");
+	
+	//get the date in the string Array.
 	actualDateSorting=validation.sortDate(dateList);
-	expectedDateSorting=actualDateSorting;
-	 Arrays.sort(actualDateSorting, Collections.reverseOrder()); 
-	Assert.assertEquals(actualDateSorting, expectedDateSorting, "date sorting not matched");
+	
+	//converts converts String array into int Array.
+	dateArray = Arrays.stream(actualDateSorting).mapToInt(Integer::parseInt).toArray();	
+	
+	//validates int array is in desceding order.returns boolean value.
+	isSortedDesceding=validation.isSortedDescending(dateArray);
+	Assert.assertTrue(isSortedDesceding, "failed:sorted by oldest");
 	log.info("Oldest is first sorting order passed ");
+	KonakartExtendReport.reportLog("validateSortingByOldest", "failed");
 }
 
 }

@@ -16,6 +16,6 @@ public class DataProviderClass {
 	@DataProvider(name="userData")
 	public  String[][] getdata() throws IOException {
 
-	   return ExcelReader.getUserData(Constants.userProductDataPath);
+	   return ExcelReader.getUserData(Constants.productNameDataPath);
 	}
 }

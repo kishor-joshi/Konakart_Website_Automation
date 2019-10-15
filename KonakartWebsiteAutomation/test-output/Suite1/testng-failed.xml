@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
-  <test thread-count="5" name="Test2(failed)">
-    <parameter name="browserType" value="ie"/>
+  <parameter name="browserType" value="firefox"/>
+  <test thread-count="5" name="footer(failed)">
     <classes>
-      <class name="com.konakart.testscenarios.SpecificProductValidationScenario">
+      <class name="com.konakart.testscenarios.SearchProductScenario">
         <methods>
+          <include name="OutComeOfSearch"/>
+          <include name="message"/>
           <include name="setBrowser"/>
-          <include name="navigateToProductDetails"/>
         </methods>
-      </class> <!-- com.konakart.testscenarios.SpecificProductValidationScenario -->
+      </class> <!-- com.konakart.testscenarios.SearchProductScenario -->
     </classes>
-  </test> <!-- Test2(failed) -->
+  </test> <!-- footer(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

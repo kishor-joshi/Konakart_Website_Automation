@@ -1,4 +1,4 @@
-package validationHelper;
+package com.konakart.validationHelper;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -91,7 +91,7 @@ public int[] getAllRating(WebDriver driver,Properties property,int totalProductN
 }
 
 /**
- * 
+ * returns all the rating as int array.
  * @param driver
  * @param property
  * @param totalProductNumber
@@ -109,7 +109,25 @@ public int[] getRating(WebDriver driver,Properties property,int totalProductNumb
 		
 		listOfRating[indexRating-1]=ratingList.size()/2;
 	}
+	log.info(Arrays.toString(listOfRating)+" list of Rating");
 	return listOfRating;
+}
+
+public  boolean isSortedDescending(final int[] data) {
+    for(int Arrindex = 1; Arrindex < data.length; Arrindex++) {
+        if(data[Arrindex-1] < data[Arrindex]) {
+            return false;
+        }
+    }
+    return true;
+}
+public  boolean isSortedAscending(final int[] data) {
+    for(int Arrindex = 1; Arrindex < data.length; Arrindex++) {
+        if(data[Arrindex-1] > data[Arrindex]) {
+            return false;
+        }
+    }
+    return true;
 }
 }
 

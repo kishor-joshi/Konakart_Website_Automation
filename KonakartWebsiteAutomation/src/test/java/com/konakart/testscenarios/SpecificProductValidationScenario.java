@@ -2,16 +2,22 @@ package com.konakart.testscenarios;
 
 import java.io.IOException;
 
+
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
 import com.konakart.script.SortingByRating;
-
+/**
+ * validation of specific product details and sorting.
+ * 
+ * @author kishor.joshi
+ *
+ */
 public class SpecificProductValidationScenario {
 	
-SortingByRating contentObj=new SortingByRating();
+SortingByRating validationObject=new SortingByRating();
 /**
+ *launching of specific Browser.type of browser is taking as parameter 
  * 
  * @param browserType
  * @throws IOException
@@ -19,23 +25,24 @@ SortingByRating contentObj=new SortingByRating();
 @Parameters({"browserType"})
 @BeforeClass
 public void setBrowser(String browserType) throws IOException {
-	contentObj.openBrowser(browserType);
+	validationObject.openBrowser(browserType);
 }
 
 /**
+ * validation of specific product details and sorting order.
  * 	
  * @throws Exception
  */
 	
 @Test
 public void navigateToProductDetails() throws Exception {
-	contentObj.naviateToSpecificProductDetailPage();
-	contentObj.navigateToProductDescription();
-	contentObj.navigateToProductSpecification();
-	contentObj.validateSortingByMostRecent();
-	contentObj.validateSortingByOldest();
-	contentObj.validateRatingHighToLow();
-	contentObj.validateRatingLowToHigh();
+	validationObject.naviateToSpecificProductDetailPage();
+	validationObject.navigateToProductDescription();
+	validationObject.navigateToProductSpecification();
+	validationObject.validateSortingByMostRecent();
+	validationObject.validateSortingByOldest();
+	validationObject.validateRatingHighToLow();
+	validationObject.validateRatingLowToHigh();
 	
 }
 
