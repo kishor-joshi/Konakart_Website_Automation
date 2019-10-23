@@ -55,7 +55,7 @@ public class SearchProductScenario {
  * 
  * @throws Exception
  */
-	@AfterMethod
+	@AfterMethod()
 	public void message() throws Exception {
 		page.getItemMessage();
 			

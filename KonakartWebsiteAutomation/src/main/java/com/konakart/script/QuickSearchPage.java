@@ -47,7 +47,7 @@ public void searchProduct(String dropDownText,String productName,String searchRe
 public void getItemMessage() throws Exception {
 	property=PageManager.loadpropertyFile(Constants.SearchPagePropertiesFilePath);
 	
-	//get the item message store in the form of itemlist.
+	//get the item message, store in itemlist.
 	itemList=helper.getElements(driver, property, "itemMessage");
 	
 	//for negative scenario item message will appear.its siz()>0.
